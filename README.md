@@ -1,7 +1,5 @@
 # Snowbag
-An aggregator of snowboarding gear, web scraped from Gumtree, Ebay and Facebook Marketplace
-
-I want to eliminate the time and hassle of trawling through and comparing numerous different web pages
+An aggregator of snowboarding gear, displaying results web scraped from Gumtree, Ebay and Facebook Marketplace
 
 Outputs an HTML file in the following format:
 
